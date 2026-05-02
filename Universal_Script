@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://bit.ly/LyraHubV2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LyraHubxxx/Game-Utilities/refs/heads/main/LyraV2.lua"))()
